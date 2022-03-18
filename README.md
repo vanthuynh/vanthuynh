@@ -5,8 +5,6 @@
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
 [![](https://img.shields.io/badge/Email-vthuynh@cpp.edu-red)](mailto:vthuynh@cpp.edu)
 
-<br>
-
 #### I'm currently a Computer Science student at Cal Poly Pomona
 
 - 🔥 I'm an aspiring Software Engineer
