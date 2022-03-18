@@ -1,25 +1,29 @@
 ### Hi! I'm Van <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm currently a Computer Science student at Cal Poly Pomona
+<br>
 
-- 🔥 I'm actively learning to become a Full-stack Developer
-- ⚡ I enjoy making meaningful web apps
-- 🏆 I'm participating in hackathons & research & school clubs
-- 🎯 2021 Goals: Get an internship for summer 2022
-- ⚽🎸❤️ Hobbies/Activities: I do play guitar; I enjoy going to the gym; I love playing sports such as soccer, swimming, badminton, etc.
+[![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
+[![](https://img.shields.io/badge/Email-vthuynh@cpp.edu-red)](mailto:vthuynh@cpp.edu)
 
-<br />
+<br>
 
-### Connect with me:
+#### I'm currently a Computer Science student at Cal Poly Pomona
 
-</a>
-<a href="https://www.linkedin.com/in/vanthuynh/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- 🔥 I'm an aspiring Software Engineer
+- ⚡ I enjoy making meaningful web applications and solve interesting problems
+- 🎯 2022 Goals: Get an internship for summer 2023
+- 🌱 Favorite Quote: The true power of human beings is that we can change ourselves on our own.
+- ⚽🎸❤️ Hobbies/Activities: I play a little guitar; I love playing sports such as indoor bouldering, swimming, badminton, etc.
 
 <br />
 
-### Languages and Tools:
+### 😄 Connect with me:
+<a href="https://www.linkedin.com/in/vanthuynh/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:htvan228@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+
+### 💻 Languages and Tools:
 
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
