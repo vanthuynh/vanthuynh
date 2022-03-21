@@ -7,9 +7,9 @@
 
 #### I'm currently a junior undergrad majoring in Computer Science at Cal Poly Pomona, CA
 
-- 🔥 I'm an aspiring Software Engineer
-- ⚡ I enjoy making meaningful web applications and solve interesting problems
-- 🎯 2022 Goals: Get an internship for summer 2023
+- 🔥 I'm an aspiring Software Engineer.
+- ⚡ I enjoy making meaningful web applications and solve interesting problems.
+- 🎯 2022 Goals: improve competitive programming skills, learn new technologies, find internship for summer 2023.
 - 🌱 Favorite Quote: _The true power of human beings is that we can change ourselves on our own._
 - ⚽🎸❤️ Hobbies/Activities: I play a little guitar; I love playing sports such as indoor bouldering, swimming, badminton, etc.
 
