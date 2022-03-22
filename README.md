@@ -37,14 +37,14 @@
  <img src="https://img.shields.io/badge/css3%20-282C34.svg?&style=flat&logo=css3&logoColor=blue"/>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/mysql%20-1C1E24.svg?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/react-282C34.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white"/>
- <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=plastic&logo=git&logoColor=red"/> <br>
- <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"/>
- <img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/react-282C34.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=flat&logo=git&logoColor=red"/> <br>
+ <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"/>
+ <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
