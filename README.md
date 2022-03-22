@@ -30,21 +30,21 @@
 ### 💻 Languages and Tools:
 
 <p align="center">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/html5%20-282C34.svg?&style=for-the-badge&logo=html5&logoColor=red"/>
- <img src="https://img.shields.io/badge/css3%20-282C34.svg?&style=for-the-badge&logo=css3&logoColor=blue"/>
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img src="https://img.shields.io/badge/mysql%20-1C1E24.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/react-282C34.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
- <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=red"/> <br>
- <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
- <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/html5%20-282C34.svg?&style=flat&logo=html5&logoColor=red"/>
+ <img src="https://img.shields.io/badge/css3%20-282C34.svg?&style=flat&logo=css3&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/mysql%20-1C1E24.svg?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/react-282C34.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=plastic&logo=git&logoColor=red"/> <br>
+ <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"/>
+ <img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white"/>
