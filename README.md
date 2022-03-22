@@ -10,7 +10,8 @@
 - 🔥 I'm an aspiring Software Engineer.
 - ⚡ I enjoy making meaningful web applications and solve interesting problems.
 - 🎯 2022 Goals: improve competitive programming skills, learn new technologies, find internship for summer 2023.
-- 🌱 Favorite Quote: _The true power of human beings is that we can change ourselves on our own._
+- 🌱 Favorite Quote: _Everyone fails at who they are supposed to be. A measure of a person, of a hero
+, is how well they succeed at being who they are._
 - ⚽🎸❤️ Hobbies/Activities: I play a little guitar; I love playing sports such as indoor bouldering, swimming, badminton, etc.
 
 <br />
