@@ -43,7 +43,6 @@
  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git%20-%23323330.svg?&style=flat-square&logo=git&logoColor=red"/> <br>
  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
