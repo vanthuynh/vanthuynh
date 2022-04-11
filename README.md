@@ -11,13 +11,13 @@
 - ⚡ I enjoy making meaningful web applications and solve interesting problems.
 - 🎯 2022 Goals: improve competitive programming skills, learn new technologies, find internship for summer 2023.
 - 🌱 Favorite Quote: _Everyone fails at who they are supposed to be. A measure of a person, of a hero
-, is how well they succeed at being who they are. (Avengers, Endgame)_
+  , is how well they succeed at being who they are. (Avengers, Endgame)_
 - ⚽🎸❤️ Hobbies/Activities: I play a little guitar; I love playing sports such as indoor bouldering, swimming, badminton, etc.
 
 <br />
+<h3 align="center">  😄 Connect with me</h3>
 
-### 😄 Connect with me:
-
+<p align="center">
 <a href="https://www.linkedin.com/in/vanthuynh/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:htvan228@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
@@ -27,8 +27,8 @@
 <!-- <p align="center">
   <a href="https://github.com/vanthuynh"><img src="https://github-readme-stats.vercel.app/api?username=vanthuynh&hide_border=true&show_icons=true" alt="vanthuynh's github stats"></a>
 </p> -->
-
-### 💻 Languages and Tools:
+<br />
+<h3 align="center">  💻 Languages and Tools:</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
