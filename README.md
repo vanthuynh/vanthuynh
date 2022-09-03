@@ -3,7 +3,7 @@
 <br>
 
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
-[![](https://img.shields.io/badge/Email-vthuynh@cpp.edu-red)](mailto:vthuynh@cpp.edu)
+[![](https://img.shields.io/badge/Email-vanthuynh0@gmail.com-red)](mailto:vanthuynh0@gmail.com)
 
 #### I'm currently a junior undergrad majoring in Computer Science at Cal Poly Pomona, CA
 
@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/vanthuynh/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:htvan228@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
+<a href="mailto:vanthuynh0@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
 &nbsp; &nbsp;
 
 <!-- github stats modal -->
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/React-282C34.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git%20-%23323330.svg?&style=flat-square&logo=git&logoColor=red"/> <br>
  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
