@@ -5,14 +5,12 @@
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
 [![](https://img.shields.io/badge/Email-vanthuynh0@gmail.com-red)](mailto:vanthuynh0@gmail.com)
 
-#### I'm currently a junior undergrad majoring in Computer Science at Cal Poly Pomona, CA
+#### I will be graduating in the Fall of 2023 with a major in Computer Science at Cal Poly Pomona, CA
 
-- 🔥 I'm an aspiring Software Engineer.
-- ⚡ I enjoy making meaningful web applications and solve interesting problems.
-- 🎯 2022 Goals: improve competitive programming skills, learn new technologies, find internship for summer 2023.
-- 🌱 Favorite Quote: _Everyone fails at who they are supposed to be. A measure of a person, of a hero
-  , is how well they succeed at being who they are. (Avengers, Endgame)_
-- ⚽🎸❤️ Hobbies/Activities: I play a little guitar; I love playing sports such as indoor bouldering, swimming, badminton, etc.
+- 🔥 I am a dedicated software engineer with a strong focus on backend development.
+- ⚡ I am enthusiastic about exploring new horizons and expanding my skill set; I am also open to embracing challenges in various roles that may come my way.
+- 🎯 2023 Goals: improve competitive programming skills, 
+- ⚽🎸❤️ Hobbies/Activities: I play a little guitar; I love playing outdoor sports, especially rock climbing (indoor bouldering mostly)
 
 <br />
 <h3 align="center">  😄 Connect with me</h3>
