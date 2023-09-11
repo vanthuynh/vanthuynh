@@ -10,7 +10,7 @@
 - 🔥 I am a dedicated software engineer with a strong focus on backend development.
 - ⚡ I am enthusiastic about exploring new horizons and expanding my skill set; I am also open to embracing challenges in various roles that may come my way.
 - 🎯 2023 Goals: obtain a full-time job offer for 2024 and honing competitive programming skills
-- ⚽🎸❤️ Hobbies/Activities: I enjoy reading popular shonen manga in my free time, I play a little guitar, and I love playing outdoor sports, especially rock climbing (indoor bouldering mostly)
+- ⚽🎸❤️ Hobbies/Activities: I love playing outdoor sports, especially rock climbing
 
 <br />
 <h3 align="center">  😄 Connect with me</h3>
