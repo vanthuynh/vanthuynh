@@ -5,11 +5,11 @@
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
 [![](https://img.shields.io/badge/Email-vanthuynh0@gmail.com-red)](mailto:vanthuynh0@gmail.com)
 
-#### I will be graduating in the Fall of 2023 with a major in Computer Science at Cal Poly Pomona, CA
+#### I am an aspiring software engineer currently pursuing Bachelor's degree in Computer Science at Cal Poly Pomona, CA
 
 - 🔥 I am a dedicated software engineer with a strong focus on backend development.
 - ⚡ I am enthusiastic about exploring new horizons and expanding my skill set; I am also open to embracing challenges in various roles that may come my way.
-- 🎯 2023 Goals: obtain a full-time job offer for 2024 and honing competitive programming skills
+- 🎯 2023 Goals: honing competitive programming skills
 - ⚽🎸❤️ Hobbies/Activities: I love playing outdoor sports, especially rock climbing
 
 <br />
