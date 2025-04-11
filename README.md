@@ -3,7 +3,7 @@
 <br>
 
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
-[![](https://img.shields.io/badge/Email-vanthuynh0@gmail.com-red)](mailto:htvan0819@gmail.com)
+[![](https://img.shields.io/badge/Email-htvan0819@gmail.com-red)](mailto:htvan0819@gmail.com)
 
 #### I am an aspiring software engineer currently pursuing Bachelor's degree in Computer Science at Cal Poly Pomona, CA
 
