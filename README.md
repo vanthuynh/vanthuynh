@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
 [![](https://img.shields.io/badge/Email-htvan0819@gmail.com-red)](mailto:htvan0819@gmail.com)
 
-#### I am an aspiring software engineer currently pursuing Bachelor's degree in Computer Science at Cal Poly Pomona, CA
+#### I am an aspiring software engineer with a Bachelor's degree in Computer Science from Cal Poly Pomona, CA
 
 - 🔥 I am a dedicated software engineer with a strong focus on backend or fullstack development.
 - ⚡ I am enthusiastic about exploring new horizons and expanding my skill set; I am also open to embracing challenges in various roles that may come my way.
