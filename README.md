@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Email-htvan0819@gmail.com-red)](mailto:htvan0819@gmail.com)
 
 #### What I'm Up To:
-- I specialize in bridging the gap between system operations and software development. With a strong foundation in Computer Science and hands-on experience managing complex IT environments, I am passionate about building reliable software, automating workflows, and solving high-impact technical challenges. 
+- 🎯 I specialize in bridging the gap between system operations and software development. With a strong foundation in Computer Science and hands-on experience managing complex IT environments, I am passionate about building reliable software, automating workflows, and solving high-impact technical challenges. 
 - 🔥 I thrive in environments where I can leverage my understanding of infrastructure to write better code, and my software engineering background to build better systems.
 <!-- - 🔥 I am a dedicated software engineer with a strong focus on backend or fullstack development. -->
 - ⚡ I am enthusiastic about exploring new horizons and expanding my skill set; I am also open to embracing challenges in various roles that may come my way.
