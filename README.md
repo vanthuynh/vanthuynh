@@ -1,15 +1,17 @@
 ## Hi! I'm Van <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+**Systems Thinker | Developer | Continuous Learner**
 
 <br>
 
 [![](https://img.shields.io/badge/LinkedIn-VanHuynh-blue)](https://www.linkedin.com/in/vanthuynh/)
 [![](https://img.shields.io/badge/Email-htvan0819@gmail.com-red)](mailto:htvan0819@gmail.com)
 
-#### I am an aspiring software engineer with a Bachelor's degree in Computer Science from Cal Poly Pomona, CA
-
-- 🔥 I am a dedicated software engineer with a strong focus on backend or fullstack development.
+#### What I'm Up To:
+- I specialize in bridging the gap between system operations and software development. With a strong foundation in Computer Science and hands-on experience managing complex IT environments, I am passionate about building reliable software, automating workflows, and solving high-impact technical challenges. 
+- 🔥 I thrive in environments where I can leverage my understanding of infrastructure to write better code, and my software engineering background to build better systems.
+<!-- - 🔥 I am a dedicated software engineer with a strong focus on backend or fullstack development. -->
 - ⚡ I am enthusiastic about exploring new horizons and expanding my skill set; I am also open to embracing challenges in various roles that may come my way.
-- 🎯 2025 goals: Fulltime SWE Position
+<!-- - 🎯 2026 goals: Fulltime SWE Position -->
 - ⚽🎸❤️ Hobbies/Activities: I love playing outdoor sports, especially rock climbing
 
 <br />
